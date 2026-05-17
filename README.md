@@ -1,2 +1,2 @@
 # TO-DO-LIST
-This project was made using Tkinter,a library in Python..
+This project was made using tkinter,a library in Python..
